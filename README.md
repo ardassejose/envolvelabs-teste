@@ -7,7 +7,8 @@ Você precisará montar uma pequena aplicação SPA onde irá consultar uma API 
 
 O projeto consiste em 3 containers que compartilham informações entre si através de uma contexto global criado através de um ContextAPI.
 
-![Screenshot da SPA]()
+![Screenshot da SPA](<img width="1272" alt="image" src="https://github.com/ardassejose/envolvelabs-teste/assets/63654800/ed473346-5934-4c82-849b-7c335dd9f7c6">
+)
 
 
 ## Rodando localmente o projeto
