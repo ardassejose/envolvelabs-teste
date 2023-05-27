@@ -15,7 +15,7 @@ O projeto consiste em 3 containers que compartilham informações entre si atrav
 Clone o projeto
 
 ```bash
-  git clone https://www.github.com/ardassejose/envolvelabs-teste
+  git clone https://www.github.com/ardassejose/envolvelabs-teste.git
 ```
 
 Go to the project directory
