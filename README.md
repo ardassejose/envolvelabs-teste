@@ -81,6 +81,8 @@ A resposta será praticamente imediata: *Server started on port 3000*
 - Resetar todos os valores para reiniciar a aplicação
 - Props globais para serem utilizadas com ContextAPI
 
+## Funcionalidades a serem adicionadas
+- Ao clicar em um elemento, ele se torna o primeiro item da lista a ser exibido o step 2
 
 ## Lições aprendidas
 
