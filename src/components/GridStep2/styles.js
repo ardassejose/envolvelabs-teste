@@ -16,6 +16,15 @@ export const GridStep2 = styled.section`
     padding: 15px;
   }
 
+  &::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
   @media (max-width: 1440px) {
     width: 80%;
   }
@@ -25,10 +34,8 @@ export const GridBox = styled.div`
   width: 100%;
   padding: 20px 10px;
   height: 67.7px;
-`
+`;
 
 export const GridImage = styled.img`
   width: 10%;
-`
-
-
+`;
